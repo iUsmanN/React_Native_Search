@@ -9,3 +9,4 @@ A simple react native app with search functionality using webviews.
 <img src="https://user-images.githubusercontent.com/15052850/66989971-c3ce6480-f0de-11e9-9f16-ceebc18584c8.png" width="270">  
 <img src="https://user-images.githubusercontent.com/15052850/66989972-c466fb00-f0de-11e9-8a5e-2db819847d0c.png" width="270">
 </p>
+ 
